@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "Chef Menu TSX",
+    "slug": "chef-menu-tsx",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/restaurant.png",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "image": "./assets/restaurant.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/restaurant.png",
+        "backgroundColor": "#ffffff"
+      }
+    }
+  }
+}
